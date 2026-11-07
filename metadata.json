@@ -1,0 +1,10 @@
+{
+  "name": "Remix SiHadir SD - Presensi Barcode \u0026 Rekapitulasi Sekolah Dasar",
+  "description": "Aplikasi absensi murid sekolah dasar berbasis scan barcode dengan rekapitulasi bulanan otomatis PDF/Excel, portal mandiri siswa/wali murid, data guru, dan pengumuman sekolah.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
